@@ -1,4 +1,4 @@
 <?php
 	echo "labas";
-	print_r("labas");
+	print_r("slabas");
 ?>
